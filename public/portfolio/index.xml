@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Kobil</title>
-    <link>http://localhost/portfolio/</link>
+    <link>http://localhost/hugo/02/portfolio/</link>
     <description>Recent content in Portfolio on Kobil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="http://localhost/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/hugo/02/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

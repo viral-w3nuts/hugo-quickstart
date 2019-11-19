@@ -3,76 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>http://localhost/hugo/02/blog/2019-11-19-created-from-netify-title/</loc>
+    <lastmod>2019-11-19T10:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/hugo/02/</loc>
+    <lastmod>2019-11-19T10:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/hugo/02/tags/tag/</loc>
+    <lastmod>2019-11-19T10:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/hugo/02/tags/</loc>
+    <lastmod>2019-11-19T10:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/hugo/02/posts/my-first-post/</loc>
     <lastmod>2019-11-13T11:29:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/my-first-post/</loc>
+    <loc>http://localhost/hugo/02/posts/</loc>
     <lastmod>2019-11-13T11:29:55+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/</loc>
-    <lastmod>2019-11-13T11:29:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/about/</loc>
+    <loc>http://localhost/hugo/02/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income.1/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income.1/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income.2/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income.2/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income.3/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income.3/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income.4/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income.4/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income.5/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income.5/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/amazon-increase-income/</loc>
+    <loc>http://localhost/hugo/02/blog/amazon-increase-income/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/blog/</loc>
+    <loc>http://localhost/hugo/02/blog/</loc>
+    <lastmod>2019-05-12T06:14:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/hugo/02/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/contact/</loc>
+    <loc>http://localhost/hugo/02/portfolio/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>http://localhost/hugo/02/categories/</loc>
   </url>
   
 </urlset>

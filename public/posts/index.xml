@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kobil</title>
-    <link>http://localhost/posts/</link>
+    <link>http://localhost/hugo/02/posts/</link>
     <description>Recent content in Posts on Kobil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Nov 2019 11:29:55 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/hugo/02/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://localhost/posts/my-first-post/</link>
+      <link>http://localhost/hugo/02/posts/my-first-post/</link>
       <pubDate>Wed, 13 Nov 2019 11:29:55 +0530</pubDate>
       
-      <guid>http://localhost/posts/my-first-post/</guid>
+      <guid>http://localhost/hugo/02/posts/my-first-post/</guid>
       <description></description>
     </item>
     
