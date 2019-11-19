@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "preloader.html" . -}}
+        {{- partial "header.html" . -}}
+        {{- block "main" . }}{{- end }}
+        {{- partial "footer.html" . -}}
+    </body>
+</html>
